@@ -1,2 +1,2 @@
-# tic-tac-toe-in-C
-Um simples programa de jogo da velha feito puramente em C.
+# Jogo da Velha em C
+O programa foi feito usando apenas a biblioteca STDIN do C e usa o terminal como meio para os jogadores jogarem, sendo as posições de 0 a 2 onde cada uma representa um local para ser posto um X ou O.
